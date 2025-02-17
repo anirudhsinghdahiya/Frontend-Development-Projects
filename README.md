@@ -33,7 +33,6 @@ A mobile-first news platform demonstrating advanced React Native capabilities. C
 
 ## Repository Structure
 ```bash
-├── real-time-chat-platform/    # Real-time chat application
-├── pet-adoption-portal/        # Pet adoption platform
+├── wisconsin-population-analytics/  # Geospatial population analysis
 └── cross-platform-news/        # Mobile news interface
 ```
